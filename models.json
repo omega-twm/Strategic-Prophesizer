@@ -1,0 +1,15 @@
+{
+    "chorister": {
+        "name": "0-1 Chorister",
+        "cost": "65",
+        "description": "Choristers sacrifice themselves upon black altars, and if worthy, rise after nine days, finishing their own beheading as their severed heads begin to sing.",
+        "movement": "6\"/Infantry",
+        "ranged": "-2 DICE",
+        "melee": "+2 DICE",
+        "armour": "0",
+        "base": "32mm",
+        "battlekit": "A Chorister can have any Battlekit from the Heretic Legions Armoury Tables.",
+        "abilities": "**Unholy Hymns:** Add -1 DICE to Success Rolls taken for enemy models that are within 8\" of one or more Choristers.",
+        "keywords": "HERETIC, ELITE, FEAR"
+    }
+}
